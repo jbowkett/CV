@@ -23,8 +23,7 @@ Graduate Developer Community.
 
 #### Employment History
 
-October 2012 - Present • Senior Developer • [Lyagushka][], London W1
-~~~
+**October 2012 - Present • Senior Developer • [Lyagushka][], London W1**
 
 Lyagushka provide a full trade lifecycle platform for a large Russian Private 
 Equity Fund.  The platform is developed using Ruby on Rails employing highly 
@@ -40,8 +39,7 @@ Kanban boards) and development (TDD, BDD and pair programming).
   workshops with Michael Feathers and Matt Wynne). 
 
 
-April 2007 – September 2012 • Software Engineer  • [Cygna Negra Capital Management][], London SE1 8RT
-~~~
+**April 2007 – September 2012 • Software Engineer  • [Cygna Negra Capital Management][], London SE1 8RT**
 
 Cygna Negra was a long-short hedge fund trading US Equities.  Prior to its 
 incorporation, I was approached by the CEO to be responsible for all software 
@@ -103,8 +101,7 @@ some of my achievements in this role:
 * Responsible for recommending (and migrating to) Google Apps for hosted
   email/office services.
 
-May 2006 – April 2007 • Senior Software Engineer • [Iris Financial Solutions][], London EC3N 4QN
-~~~
+**May 2006 – April 2007 • Senior Software Engineer • [Iris Financial Solutions][], London EC3N 4QN**
 
 * Supported and liaised with business users of Citigroup’s main benchmark FX
   spot and forward pricing engine.
@@ -118,8 +115,7 @@ May 2006 – April 2007 • Senior Software Engineer • [Iris Financial Solutio
   JMX and configuration visualisations.
 * Implemented configurable export mechanism of JMX data using Spring.
 
-June 2005 – May 2006 • Associate Analyst Programmer • [JP Morgan Asset Management][], London EC2Y 9AQ
-~~~
+**June 2005 – May 2006 • Associate Analyst Programmer • [JP Morgan Asset Management][], London EC2Y 9AQ**
 
 * Seconded into build manager role, introducing a monthly release cycle leading
   to 20 successful releases to production after a period of several late releases.
@@ -129,8 +125,7 @@ June 2005 – May 2006 • Associate Analyst Programmer • [JP Morgan Asset Man
   Websphere 5/Vignette Application Portal 7.2.
 * Oversaw the migration of all source code from PVCS and CVS to Clearcase.
 
-June 2002 – June 2005	• Senior Software Engineer • [Searchspace][], London WC1A 1HB
-~~~
+**June 2002 – June 2005	• Senior Software Engineer • [Searchspace][], London WC1A 1HB**
 
 * Technical Lead for development and deployment of 3 new Sentinel products
   for US Bank (the project totalled around 7 man years of development effort). 
@@ -154,8 +149,8 @@ June 2002 – June 2005	• Senior Software Engineer • [Searchspace][], London
   hires.
 * Mentored new hires to ensure they became effective in their new role.
 
-October 2000 – June 2002 • Software Engineer • [Searchspace][], London WC1A 1HB
-~~~
+**October 2000 – June 2002 • Software Engineer • [Searchspace][], London WC1A 1HB**
+
 
 * Technical Lead for the first project deployment in Canada with a new
   alliance partner, Sapient.  This involved briefing the 10-man Sapient
@@ -175,19 +170,18 @@ October 2000 – June 2002 • Software Engineer • [Searchspace][], London WC1
   and project issues for team members, other project teams and clients and
   managers.
 
-June 2000 – October 2000 • Graduate Software Engineer • [Searchspace][], London WC1A 1HB
-~~~
+**June 2000 – October 2000 • Graduate Software Engineer • [Searchspace][], London WC1A 1HB**
 
 * Debugged the main framework Java code.
 * Liaised with customers to ascertain any special circumstances or
   additional information giving rise to bug reports against Searchspace 
   software.
 
-July 1999 – October 1999 • Student Internship • [Searchspace][], London WC1A 1HB
+**July 1999 – October 1999 • Student Internship • [Searchspace][], London WC1A 1HB**
 
-July 1998 – September 1998 and December 1998 • Technical Support • [Price Jamieson][], London W1N 9FA
+**July 1998 – September 1998 and December 1998 • Technical Support • [Price Jamieson][], London W1N 9FA**
 
-Ten months between July 1996- April 1999 • Mac Technical Support • [Wolff Olins][], London, N1 9RL
+**Ten months between July 1996- April 1999 • Mac Technical Support • [Wolff Olins][], London, N1 9RL**
 
 #### Education and Qualifications
 
