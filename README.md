@@ -24,8 +24,8 @@ Graduate Developer Community.
 #### Employment History
 
 |------------------------------------|---------------------------------------:|
-|October 2012 - Present |  Senior Developer|
-|[Lyagushka][], London W1|  
+|October 2012 - Present              |                        Senior Developer|
+|[Lyagushka][], London W1            |                                        |
 
 
 Lyagushka provide a full trade lifecycle platform for a large Russian Private 
