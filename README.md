@@ -1,4 +1,3 @@
-[james@bowkett.info]: mailto:james@bowkett.info
 [http://github.com/jbowkett]: http://github.com/jbowkett
 [Lyagushka]:http://lyagushka.co.uk
 [Cygna Negra Capital Management]:http://www.cygnanegra.com
@@ -10,8 +9,7 @@
 
 James Bowkett
 ==
-[james@bowkett.info][] • [http://github.com/jbowkett][] • 07967 156887 
- 
+
 #### Summary
 Building on over 12 years experience of using Java in an enterprise environment, 
 my most recent experience has been in a highly agile TDD/BDD Ruby environment. 
