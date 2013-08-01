@@ -24,7 +24,7 @@ Graduate Developer Community.
 #### Employment History
 
 |------------------------------------|---------------------------------------:|
-|October 2012 - Present |  Senior Developer|  
+|October 2012 - Present |  Senior Developer|
 |[Lyagushka][], London W1|  
 
 
