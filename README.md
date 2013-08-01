@@ -22,6 +22,7 @@ conferences (such as JAX London and QCon) and I am an Associate at the
 Graduate Developer Community.
 
 #### Employment History
+
 |------------------------------------|---------------------------------------:|
 |October 2012 - Present |  Senior Developer|  
 |[Lyagushka][], London W1|  
