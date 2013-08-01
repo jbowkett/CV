@@ -13,11 +13,11 @@ James Bowkett
 #### Summary
 Building on over 12 years experience of using Java in an enterprise environment, 
 my most recent experience has been in a highly agile TDD/BDD Ruby environment. 
-I am looking to make a return to enterprise engineering, applying the terse 
-programming style inherent in a language such as Ruby.  I take an active role 
-in the wider software development community, attending community events and 
-conferences (such as JAX London and QCon) and I am an Associate at the 
-Graduate Developer Community.
+I am looking to make a return to large datasets and enterprise engineering,
+applying the terse programming style inherent in a language such as Ruby.
+I take an active role in the wider software development community, attending
+community events and conferences (such as JAX London and QCon) and I am an
+Associate at the Graduate Developer Community.
 
 #### Employment History
 
@@ -56,24 +56,27 @@ some of my achievements in this role:
   the data to present it in a consistent format so the data may be input into 
   the quant's statistical models/simulations (e.g. Monte Carlo), and 
   ultimately used to make trading decisions.
-* All code was implemented in Java 6 with a SQLServer 2005 data warehouse and
-  designed to be highly modular using constructor injection for ease of testing 
-  and component reuse.
-* Created Tomcat 7 web applications for accessing and analysing data from 
-  the main SQL Server data warehouse. Incorporating the following
-  technologies: Spring 3.0.6, Stripes 1.5.6, Shiro 1.1.0, JSP 2.1, JSTL 1.2,
-  Infinispan 5.1, Java.nio Memory mapped files, CSS, JQuery 1.6.1, 
-  Highcharts 2.1.8, JQueryBlockUI, DisplayTag, Ajax.
+* All code was implemented in Java 6 with a SQLServer 2005 data warehouse
+  (around 400 GB) and designed to be highly modular using constructor injection
+  for ease of testing and component reuse.
 * Designed and implemented a highly-configurable custom ETL tool using Java
   (first version implemented in Ruby), allowing for quick and easy development
-  and deployment of new datafeeds.  The ETL tool is responsible for downloading
+  and deployment of new datafeeds.  The ETL tool was responsible for downloading
   feed files (over http(s) or ftp), transforming them and then loading them into
-  the main data warehouse from such institutions as the SEC and USPTO. 
-  Incorporating Xstream 1.3, reflection, xslt, commons-net 2.0. 
+  the main data warehouse from such institutions as the SEC and USPTO.
+  Incorporating Xstream 1.3, reflection, xslt, commons-net 2.0.
+* Created Tomcat 7 web applications for accessing and analysing data from
+  the main SQL Server data warehouse. Incorporating the following
+  technologies: Spring 3.0.6, Stripes 1.5.6, Shiro 1.1.0, JSP 2.1, JSTL 1.2,
+  Infinispan 5.1, Java.nio Memory mapped files, CSS, JQuery 1.6.1,
+  Highcharts 2.1.8, JQueryBlockUI, DisplayTag, Ajax.
 * Created a custom research tool for users to research company information in
   a structured manner, and parse required details out of web pages
   automatically.  This was later adapted to use Java Webstart so users could
   work offsite.  Incorporating JExplorer 2.5 (earlier versions used JDIC).
+  (Since leaving, I have implemented an open source custom proxy server to
+  enable augmented browsing that would obviate the need for a custom browser
+  component)
 * Developed a custom Maven plug-in to composite obfuscating and signing
   mojos ready for Webstart creation to ensure output obfuscated jars are
   correctly signed for use in Webstart.  Incorporating Maven 3 and Proguard.
@@ -125,11 +128,11 @@ some of my achievements in this role:
 
 **June 2002 – June 2005	• Senior Software Engineer • [Searchspace][], London WC1A 1HB**
 
-* Technical Lead for development and deployment of 3 new Sentinel products
-  for US Bank (the project totalled around 7 man years of development effort). 
-  Responsibilities include: designing solutions; all configuration management;
-  leading a team of 9 developers, 5 test analysts and 2 technical authors;
-  mentoring junior developers; quality control of code and documents;
+* Technical Lead for development and deployment of 3 new DB2-based Sentinel
+  products for US Bank (the project totalled around 7 man years of development
+  effort).  Responsibilities included: designing solutions; all configuration
+  management; leading a team of 9 developers, 5 test analysts and 2 technical
+  authors; mentoring junior developers; quality control of code and documents;
   ensuring requirements were kept under change control; presenting at
   several meetings with the senior executives of US Bank in Minneapolis
   to instil confidence in Searchspace’s ability to deliver the solution.
@@ -160,7 +163,7 @@ some of my achievements in this role:
 * Programmed IEF on major client deployment projects including Scotiabank,
   Barclays, Royal Bank of Scotland, NYSE and Bank of Scotland. 
 * Developed custom Java tools and extensions for use within the IEF framework.
-* Administered an Oracle database.
+* Administered an Oracle 8i Enterprise Edition database.
 * Created workarounds to various framework issues such as loading 6.5 million
   customer account records safely into memory while still assuring fast and
   efficient lookup. 
