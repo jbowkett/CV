@@ -24,8 +24,8 @@ Associate at the Graduate Developer Community.
 **October 2012 - Present • Senior Developer • [Lyagushka][], London W1**
 
 Lyagushka provide a full trade lifecycle platform for a large Russian Private 
-Equity Fund.  The platform is developed using Ruby on Rails employing highly 
-agile methodologies for planning (daily standup meetings, planning poker, 
+Equity Fund.  The platform is developed using Mysql and Ruby on Rails employing
+highly agile methodologies for planning (daily standup meetings, planning poker,
 Kanban boards) and development (TDD, BDD and pair programming).
 *	Successfully cross-trained to Ruby and developed new components 3 months 
   earlier than anticipated by the team.
@@ -130,12 +130,13 @@ some of my achievements in this role:
 
 * Technical Lead for development and deployment of 3 new DB2-based Sentinel
   products for US Bank (the project totalled around 7 man years of development
-  effort).  Responsibilities included: designing solutions; all configuration
-  management; leading a team of 9 developers, 5 test analysts and 2 technical
-  authors; mentoring junior developers; quality control of code and documents;
-  ensuring requirements were kept under change control; presenting at
-  several meetings with the senior executives of US Bank in Minneapolis
-  to instil confidence in Searchspace’s ability to deliver the solution.
+  effort and around 12 TB of warehoused data).  Responsibilities included:
+  designing solutions; all configuration management; leading a team of 9
+  developers, 5 test analysts and 2 technical authors; mentoring junior
+  developers; quality control of code and documents; ensuring requirements were
+  kept under change control; presenting at several meetings with the senior
+  executives of US Bank in Minneapolis to instil confidence in Searchspace’s
+  ability to deliver the solution.
 * Researched new technologies for prototyping configuration control and
   productised upgrades in a further new version of Searchspace’s core
   product, IEF.  The technologies investigated include dynamic classloading,
@@ -151,7 +152,6 @@ some of my achievements in this role:
 * Mentored new hires to ensure they became effective in their new role.
 
 **October 2000 – June 2002 • Software Engineer • [Searchspace][], London WC1A 1HB**
-
 
 * Technical Lead for the first project deployment in Canada with a new
   alliance partner, Sapient.  This involved briefing the 10-man Sapient
