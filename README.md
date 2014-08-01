@@ -9,8 +9,9 @@
 
 James Bowkett
 ======
+#### james@bowkett.info • 07967 156887 • [http://github.com/jbowkett][]
 
-#### Summary
+### Summary
 I am a proven fast learner, building on over 12 years experience of using 
 Java in an enterprise environment, my most recent experience has been as the
 lead developer for a highly agile TDD/BDD Ruby team. I am looking to make a 
@@ -19,16 +20,15 @@ and continuing to use TDD/BDD techniques to apply the principles of SOLID
 design to produce clean code regardless of the language.
 
 I take an active role in the wider software development community, attending
-community events and conferences (such as JAX London and QCon) and I am an
-Associate at the Graduate Developer Community.
+community events and conferences and I am an Associate at the Graduate Developer Community.
 
-#### Employment History
+### Employment History
 
 **December 2013 - Present • Lead Developer • [Lyagushka][], London W1**
 
 Lyagushka provide a full trade lifecycle platform for a large (>4$bn) Private 
-Equity Fund.  The platform is developed using MongoDB, 
-Mysql and Ruby on Rails employing highly agile methodologies for planning 
+Equity Fund incorporating complex business rules.  The platform is developed 
+using MongoDB, Mysql and Ruby on Rails employing highly agile methodologies for planning 
 (daily standup meetings, planning poker, Kanban boards) and development (TDD, 
 BDD and pair programming).
 
@@ -53,9 +53,9 @@ delays) using Puppet
 *	Successfully cross-trained to Ruby and developed new components 3 months 
   earlier than anticipated by the team.
 *   Quickly became proficient in the Ruby toolchain - Ruby 1.8.7, Rails 2, 
-Rspec, Cucumber, Github, Capistrano on Mac OS X
-*	Designed and implemented new functionality including a Company Family Tree 
-  service and an error logging/reporting component.
+Rspec, Cucumber, Github, Capistrano on OS X.
+*	Designed and implemented new components for accessing Company Family 
+Trees, error logging, IBAN formatting.
 *	Presented at regular customer demo meetings to the fund partners.
 *	Led the design for an ETL component for loading data from external sources.
 *	Tackled different aspects technical debt within the main codebase 
@@ -206,7 +206,7 @@ London WC1A 1HB**
 
 **Ten months between July 1996- April 1999 • Mac Technical Support • [Wolff Olins][], London, N1 9RL**
 
-#### Education and Qualifications
+### Education and Qualifications
 
 * 2004 British Computer Society – MBCS (since lapsed)
 * 1997-2000 University of Sussex – 2:1 (Hons) BSc Computer Science
