@@ -4,8 +4,6 @@
 [Iris Financial Solutions]: http://www.irisfinancialsolutions.com
 [JP Morgan Asset Management]:http://www.jpmorgan.com
 [Searchspace]:http://www.searchspace.com
-[Price Jamieson]:http://www.pricejam.com
-[Wolff Olins]:http://www.wolff-olins.com
 
 James Bowkett
 ======
@@ -13,18 +11,18 @@ James Bowkett
 
 ### Summary
 I am a proven fast learner, building on over 12 years experience of using 
-Java in an enterprise environment, my most recent experience has been as the
-lead developer for a highly agile TDD/BDD Ruby team. I am looking to make a 
+Java in various enterprise environments.  My most recent experience has been as
+the lead developer for a highly agile TDD/BDD Ruby team. I am looking to make a 
 return to working with large datasets (both relational and non-relational) 
 and continuing to use TDD/BDD techniques to apply the principles of SOLID 
 design to produce clean code regardless of the language.
 
-I take an active role in the wider software development community, attending
-community events and conferences and I am an Associate at the Graduate Developer Community.
+I am an Associate at the Graduate Developer Community, and I enjoy attending 
+both GDC and LJC events and conferences.
 
 ### Employment History
 
-**December 2013 - Present • Lead Developer • [Lyagushka][], London W1**
+**December 2013 - Present • Lead Developer • [Lyagushka][], London**
 
 Lyagushka provide a full trade lifecycle platform for a large (>4$bn) Private 
 Equity Fund incorporating complex business rules.  The platform is developed 
@@ -32,46 +30,45 @@ using MongoDB, Mysql and Ruby on Rails employing highly agile methodologies for 
 (daily standup meetings, planning poker, Kanban boards) and development (TDD, 
 BDD and pair programming).
 
-*  Promoted to team lead (three permanent developers in total), following 
-successful first year with the company
-*  Introduced constructor injection technique to the team to assist with 
-unit testability
-*  Modelled, designed and implemented a complex stock movement service
-*  Designed and implemented instruction services to output SWIFT messages
-*  Oversaw the implementation of an external team to deliver an FX and 
-security pricing project, including having to learn MongoDB (completed the Mongo University course in 
-Mongo 101)
-*  Introduced new tools to the company such as Harvest, Trello - business focused and continually improving
-*  Delivered a Disaster Recovery project (following several months of 
-delays) using Puppet
-*  Part of the management team responsible for the orderly wind down of the company
-*  Demoed the platform to potential clients and investors
+* Promoted to team lead following successful first year with the company.
+* Introduced constructor injection technique to the team to assist with 
+  unit testability.
+* Modelled, designed and implemented a complex stock movement service.
+* Designed and implemented instruction services to output SWIFT messages.
+* Oversaw the implementation of an external team to deliver an FX and 
+  security pricing project. _including having to learn MongoDB (completed the 
+  Mongo University course in Mongo 101)_
+* Introduced new tools to the company such as Harvest & Trello. _business 
+  focused and continually improving_
+* Delivered a Disaster Recovery project (following several months of 
+  delays) using Puppet.
+* Part of the management team responsible for the orderly wind down of the 
+  company.
+* Demonstrated the platform to potential clients and investors.
 
 
-**October 2012 - December 2013 • Senior Developer • [Lyagushka][], London W1**
+**October 2012 - December 2013 • Senior Developer • [Lyagushka][], London**
 
-*	Successfully cross-trained to Ruby and developed new components 3 months 
+* Successfully cross-trained to Ruby and developed new components 3 months 
   earlier than anticipated by the team.
-*   Quickly became proficient in the Ruby toolchain - Ruby 1.8.7, Rails 2, 
-Rspec, Cucumber, Github, Capistrano on OS X.
-*	Designed and implemented new components for accessing Company Family 
-Trees, error logging, IBAN formatting.
-*	Presented at regular customer demo meetings to the fund partners.
-*	Led the design for an ETL component for loading data from external sources.
-*	Tackled different aspects technical debt within the main codebase 
-(following in-house workshops with Michael Feathers and Matt Wynne). 
+* Quickly became proficient in the Ruby toolchain - Ruby 1.8.7, Rails 2, 
+  Rspec, Cucumber, Github, Capistrano on OS X.
+* Designed and implemented new components for accessing company family 
+  trees, error logging, IBAN formatting.
+* Presented at regular customer demo meetings to the fund partners.
+* Led the design for an ETL component for loading data from external sources.
+* Tackled different aspects technical debt within the main codebase 
+  (following in-house workshops with Michael Feathers and Matt Wynne). 
 
 
-**April 2007 – September 2012 • Software Engineer  • [Cygna Negra Capital Management][], London SE1 8RT**
+**April 2007 – September 2012 • Software Engineer  • [Cygna Negra Capital Management][], London**
 
 Cygna Negra was a long-short hedge fund trading US Equities.  Prior to its 
 incorporation, I was approached by the CEO to be responsible for all software 
 engineering, systems setup and administration.
 
-* Single-handedly created the software function from scratch, employing 
-  industry-standard tools and practices i.e. Subversion SCM, automated builds 
-  using Maven 3, continuous integration using Jenkins, bug tracking and SCM 
-  pre-check-in integration with TRAC for full audit history of check-in changes.
+* Single-handedly created the software function from scratch, 
+  standardising on Subversion, Maven 3, Jenkins and TRAC.
 * Responsible for all stages of the development lifecycle from requirements 
   gathering and design through to coding, testing, maintenance and production 
   support.  Development was undertaken in short rapid prototype cycles.
@@ -82,50 +79,43 @@ engineering, systems setup and administration.
   the quant's statistical models/simulations (e.g. Monte Carlo), and 
   ultimately used to make trading decisions.
 * All code was implemented in Java 6 with a SQLServer 2005 data warehouse
-  (around 400 GB) and designed to be highly modular using constructor injection
-  for ease of testing and component reuse.
-* Designed and implemented a highly-configurable custom ETL tool using Java, 
-  allowing for quick and easy development and deployment of new datafeeds.  
-  The ETL tool was responsible for downloading feed files (over http(s) or 
-  ftp), transforming them and then loading them into the main data warehouse 
-  from such institutions as the SEC and USPTO. Incorporating Xstream, 
-  reflection, xslt, Apache commons-net.
-* Created Tomcat 7 web applications for accessing and analysing data from
-  the main SQL Server data warehouse. Incorporating the following
-  technologies: Spring 3, Stripes, Shiro, JSP 2, JSTL, Infinispan 5, 
-  Java.nio Memory mapped files, CSS, JQuery, Highcharts 2, JQueryBlockUI, DisplayTag, Ajax.
-* Created a custom research tool for users to research company information in
-  a structured manner, and parse required details out of web pages
-  automatically.  This was later adapted to use Java Webstart so users could
-  work offsite.  Incorporating JExplorer 2 (earlier versions used JDIC).
-  (Since leaving, I have implemented an open source custom proxy server to
-  enable augmented browsing that would obviate the need for a custom browser
-  component)
-* Developed a custom Maven plug-in to composite obfuscating and signing
+  (~400 GB) using constructor injection.
+* Designed and implemented a highly-configurable custom ETL tool, allowing for 
+  quick and easy development and deployment of new datafeeds. The ETL tool was 
+  responsible for downloading feed files (over http(s) or ftp), transforming 
+  them and then loading them into the main data warehouse from such 
+  institutions as the SEC and USPTO. Incorporating Xstream, reflection, XSLT, 
+  Apache commons-net.
+* Created Tomcat 7 web applications for accessing and analysing OLAP data. 
+  Incorporating the following technologies: Spring 3, Stripes, Shiro, JSP 2, 
+  JSTL, Infinispan 5, Java.nio Memory mapped files, CSS, JQuery, Highcharts 2, 
+  JQueryBlockUI, DisplayTag, Ajax.
+* Created a tool for users to research company information in a structured 
+  manner, parsing required details out of web pages automatically. Incorporating 
+  JDIC/JExplorer and Webstart. (Since leaving, I have implemented an open 
+  source custom proxy server to enable augmented browsing that would obviate 
+  the need for a custom browser component)
+* Developed a Maven plug-in to composite obfuscating and signing
   mojos ready for Webstart creation to ensure output obfuscated jars are
   correctly signed for use in Webstart.  Incorporating Maven 3 and Proguard.
-* Created various autonomous web page scraping agents to extract information
-  for input into the main data warehouse, such as extracting and recording
-  the number of Google results for a String or searching online databases and 
-  following links to record the correct result.
-* Implemented a custom workflow server and client to allocate work for the
+* Created various autonomous web page scraping agents.
+* Implemented a workflow server and client to allocate work for the
   research client and other research and internet downloader/scraping tools,
   utilising JMX as the transport layer.
 * Created a text cleaning library to enable the matching of manually-entered
   strings containing foreign characters and misspellings using Secondstring
-  and Simmetrics libraries (main algorithm in use is edit (Levenshtein) distance.
-* Created a grid implementation of string matching algorithms for matching
-  noisy company name data to publicly-listed company names using Gridgain.
+  and Simmetrics libraries.
+* Created a Gridgain implementation of string matching algorithms for matching
+  noisy company name data to publicly-listed company names.
 * Successfully presented development process to non-technical prospective
   board members.
-* Mentored a temporary researcher to the level of a permanent junior
-  programmer able to develop production-ready code.
+* Mentored a temporary researcher to the level of a junior programmer able to 
+  develop production-ready code.
 * Created company-wide backup and disaster recovery strategy.
-* Responsible for recommending (and migrating to) Google Apps for hosted
-  email/office services.
+* Made strategic purchasing decisions e.g. Google Apps.
 
 **May 2006 – April 2007 • Senior Software Engineer • [Iris Financial 
-Solutions][], London EC3N 4QN**
+Solutions][], London**
 
 * Supported and liaised with business users of Citigroup’s main benchmark FX
   spot and forward pricing engine.
@@ -139,7 +129,7 @@ Solutions][], London EC3N 4QN**
   JMX and configuration visualisations.
 * Implemented configurable export mechanism of JMX data using Spring.
 
-**June 2005 – May 2006 • Associate Analyst Programmer • [JP Morgan Asset Management][], London EC2Y 9AQ**
+**June 2005 – May 2006 • Associate Analyst Programmer • [JP Morgan Asset Management][], London**
 
 * Seconded into build manager role, introducing a monthly release cycle leading
   to 20 successful releases to production after a period of several late releases.
@@ -147,7 +137,7 @@ Solutions][], London EC3N 4QN**
 * Upgraded three portal applications from Websphere 4/Epicentric 4 to
   Websphere 5/Vignette Application Portal 7.2.
 * Managed the migration of all department source code from PVCS and CVS to 
-Clearcase.
+  Clearcase.
 
 **June 2002 – June 2005	• Senior Software Engineer • [Searchspace][], 
 London WC1A 1HB**
@@ -162,9 +152,8 @@ London WC1A 1HB**
   executives of US Bank in Minneapolis to instil confidence in Searchspace’s
   ability to deliver the solution.
 * Researched new technologies for prototyping configuration control and
-  product upgrades in a further new version of Searchspace’s core
-  product, IEF.  The technologies investigated include dynamic classloading,
-  portlets, JSPs, Servlets and xml persistence mechanisms.
+  IEF upgrades.  The technologies used include dynamic classloading, portlets, 
+  JSPs, Servlets and XML persistence mechanisms.
 * Presented several internal training courses to customer services,
   developers and professional services staff (groups comprised of 10 to
   20 people) on configuration and extension of IEF.
@@ -175,7 +164,7 @@ London WC1A 1HB**
   hires.
 * Mentored new hires to ensure they became effective in their new role.
 
-**October 2000 – June 2002 • Software Engineer • [Searchspace][], London WC1A 1HB**
+**October 2000 – June 2002 • Software Engineer • [Searchspace][], London**
 
 * Technical Lead for the first project deployment in Canada with a new
   alliance partner, Sapient.  This involved briefing the 10-man Sapient
@@ -185,30 +174,28 @@ London WC1A 1HB**
   integrate with the Sapient codebase to create events during multi-threaded
   database batch processes.
 * Programmed IEF on major client deployment projects including Scotiabank,
-  Barclays, Royal Bank of Scotland, NYSE and Bank of Scotland. 
-* Developed custom Java tools and extensions for use within the IEF platform.
-* Administered an Oracle 8i Enterprise Edition database.
+  Barclays, RBS, NYSE and HBOS. 
 * Created workarounds to various framework issues such as loading 6.5 million
   customer account records safely into 32-bit memory while still assuring fast
-   and efficient lookup. 
+  and efficient lookup. 
 * Regularly seconded into technical lead role, including resolving technical
   and project issues for team members, other project teams and clients and
   managers.
+* Administered an Oracle 8i Enterprise Edition database.
 
-**June 2000 – October 2000 • Graduate Software Engineer • [Searchspace][], London WC1A 1HB**
+**June 2000 – October 2000 • Graduate Software Engineer • [Searchspace][], London**
 
 * Debugged the main framework Java code.
 * Bug fixing for Bank of Scotland deployment (including client liaison).
 
-**July 1999 – October 1999 • Student Internship • [Searchspace][], London WC1A 1HB**
+**July 1999 – October 1999 • Student Internship • [Searchspace][], London**
 
-**July 1998 – September 1998 and December 1998 • Technical Support • [Price Jamieson][], London W1N 9FA**
-
-**Ten months between July 1996- April 1999 • Mac Technical Support • [Wolff Olins][], London, N1 9RL**
+**July 1996 – December 1998 • Various technical support roles during 
+college/university vacations**
 
 ### Education and Qualifications
 
-* 2004 British Computer Society – MBCS (since lapsed)
+* 2004 British Computer Society – MBCS
 * 1997-2000 University of Sussex – 2:1 (Hons) BSc Computer Science
 * 1995-1997 Westcliff High School For Boys Sixth Form – 4 A-levels 
 * 1995-1996 Southend Adult Education Community College – A-level in Computer Science
