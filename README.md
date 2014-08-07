@@ -10,7 +10,7 @@ James Bowkett
 #### james@bowkett.info • 07967 156887 • [http://github.com/jbowkett][]
 
 ### Summary
-I am a proven fast learner, building on over 12 years experience of using 
+I am a proven fast learner, looking to build on over 12 years experience using 
 Java in various enterprise environments.  My most recent experience has been as
 the lead developer for a highly agile TDD/BDD Ruby team. I am looking to make a 
 return to working with large datasets (both relational and non-relational) 
@@ -36,10 +36,9 @@ BDD and pair programming).
 * Modelled, designed and implemented a complex stock movement service.
 * Designed and implemented instruction services to output SWIFT messages.
 * Oversaw the implementation of an external team to deliver an FX and 
-  security pricing project. _including having to learn MongoDB (completed the 
-  Mongo University course in Mongo 101)_
-* Introduced new tools to the company such as Harvest & Trello. _business 
-  focused and continually improving_
+  security pricing project.
+* Streamlined the development process by introducing new tools to the company 
+  such as Harvest & Trello.
 * Delivered a Disaster Recovery project (following several months of 
   delays) using Puppet.
 * Part of the management team responsible for the orderly wind down of the 
@@ -80,24 +79,22 @@ engineering, systems setup and administration.
   ultimately used to make trading decisions.
 * All code was implemented in Java 6 with a SQLServer 2005 data warehouse
   (~400 GB) using constructor injection.
-* Designed and implemented a highly-configurable custom ETL tool, allowing for 
-  quick and easy development and deployment of new datafeeds. The ETL tool was 
-  responsible for downloading feed files (over http(s) or ftp), transforming 
-  them and then loading them into the main data warehouse from such 
-  institutions as the SEC and USPTO. Incorporating Xstream, reflection, XSLT, 
-  Apache commons-net.
+* Designed and implemented a highly-configurable ETL tool, allowing for 
+  quick and easy development and deployment of new datafeeds. It downloaded 
+  feed files (over http(s) and ftp) from such institutions as the SEC and 
+  USPTO. Incorporating Xstream, reflection, XSLT, Apache commons-net.
 * Created Tomcat 7 web applications for accessing and analysing OLAP data. 
   Incorporating the following technologies: Spring 3, Stripes, Shiro, JSP 2, 
   JSTL, Infinispan 5, Java.nio Memory mapped files, CSS, JQuery, Highcharts 2, 
   JQueryBlockUI, DisplayTag, Ajax.
 * Created a tool for users to research company information in a structured 
-  manner, parsing required details out of web pages automatically. Incorporating 
+  manner, parsing recognised web pages automatically. Incorporating 
   JDIC/JExplorer and Webstart. (Since leaving, I have implemented an open 
   source custom proxy server to enable augmented browsing that would obviate 
   the need for a custom browser component)
 * Developed a Maven plug-in to composite obfuscating and signing
   mojos ready for Webstart creation to ensure output obfuscated jars are
-  correctly signed for use in Webstart.  Incorporating Maven 3 and Proguard.
+  signed for use in Webstart.  Incorporating Maven 3 and Proguard.
 * Created various autonomous web page scraping agents.
 * Implemented a workflow server and client to allocate work for the
   research client and other research and internet downloader/scraping tools,
@@ -195,10 +192,11 @@ college/university vacations**
 
 ### Education and Qualifications
 
-* 2004 British Computer Society – MBCS
-* 1997-2000 University of Sussex – 2:1 (Hons) BSc Computer Science
-* 1995-1997 Westcliff High School For Boys Sixth Form – 4 A-levels 
-* 1995-1996 Southend Adult Education Community College – A-level in Computer Science
-* Summer 1995 SEETEC NVQ Level 2 diploma in Information Technology
-* 1990-1995 Westcliff High School for Boys – 10 GCSEs 
+* 2014 Mongo University - Mongo 101
+* 2004 British Computer Society - MBCS
+* 1997-2000 University of Sussex - 2:1 (Hons) BSc Computer Science
+* 1995-1997 Westcliff High School For Boys Sixth Form - 4 A-levels 
+* 1995-1996 Southend Adult Education Community College - A-level in Computer Science
+* Summer 1995 SEETEC - NVQ Level 2 diploma in Information Technology
+* 1990-1995 Westcliff High School for Boys - 10 GCSEs 
 * 1982-1990 College Saint Pierre Preparatory School
