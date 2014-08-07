@@ -188,7 +188,7 @@ London WC1A 1HB**
 **July 1999 – October 1999 • Student Internship • [Searchspace][], London**
 
 **July 1996 – December 1998 • Various technical support roles during 
-college/university vacations**
+sixth form/university vacations**
 
 ### Education and Qualifications
 
