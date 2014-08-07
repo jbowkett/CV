@@ -136,8 +136,7 @@ Solutions][], London**
 * Managed the migration of all department source code from PVCS and CVS to 
   Clearcase.
 
-**June 2002 – June 2005	• Senior Software Engineer • [Searchspace][], 
-London WC1A 1HB**
+**June 2002 – June 2005	• Senior Software Engineer • [Searchspace][], London**
 
 * Technical Lead for development and deployment of 3 new DB2-based Sentinel
   products for US Bank (the project totalled around 7 man years of development
