@@ -10,16 +10,14 @@ James Bowkett
 #### [http://github.com/jbowkett][]
 #### james@bowkett.info • 07967 156887 • 10 Honeysuckle Close, Hertford, SG13 7TQ 
 
-### Summary
-I am a proven fast learner, looking to build on over 12 years experience using 
-Java in various enterprise environments.  My most recent experience has been as
-the lead developer for a highly agile TDD/BDD Ruby team. I am looking to make a 
-return to working with large datasets (both relational and non-relational) 
-and continuing to use TDD/BDD techniques to apply the principles of SOLID 
-design to produce clean code regardless of the language.
+### Profile
 
-I am an Associate at the Graduate Developer Community, and I enjoy attending 
-both GDC and LJC events and conferences.
+A professional technical lead looking to build on over 12 years experience 
+using Java in various enterprise environments. I am seeking a return to working 
+with large datasets using TDD practices, SOLID design and clean code.
+
+I am an Associate at the Graduate Developer Community, attending both GDC and 
+LJC events and conferences.
 
 ### Employment History
 
@@ -28,7 +26,7 @@ both GDC and LJC events and conferences.
 Lyagushka provide a full trade lifecycle platform for a large (>4$bn) private 
 equity fund incorporating complex business rules.  The platform is developed 
 using MongoDB, Mysql and Ruby on Rails employing highly agile methodologies for planning 
-(daily standup meetings, planning poker, Kanban boards) and development (TDD, 
+(morning standups, planning poker, Kanban boards) and development (TDD, 
 BDD and pair programming).
 
 * Promoted to team lead following successful first year with the company.
@@ -40,8 +38,6 @@ BDD and pair programming).
   security pricing project.
 * Streamlined the development process by introducing new tools to the company 
   such as Harvest & Trello.
-* Delivered a disaster recovery project (following several prior months of 
-  delays) using Puppet.
 * Part of the management team responsible for the orderly wind down of the 
   company.
 * Demonstrated the platform to potential clients and investors.
@@ -63,12 +59,12 @@ BDD and pair programming).
 
 **April 2007 – September 2012 • Software Engineer  • [Cygna Negra Capital Management][], London**
 
-Cygna Negra was a long-short hedge fund trading US Equities.  Prior to its 
+Cygna Negra was a long-short hedge fund trading US equities.  Prior to its 
 incorporation, I was approached by the CEO to be responsible for all software 
 engineering, systems setup and administration.
 
-* Single-handedly created the software function from scratch, 
-  standardising on Subversion, Maven 3, Jenkins and TRAC.
+* Single-handedly created the software function, standardising on Subversion, 
+  Maven 3, Jenkins and TRAC.
 * All code was implemented in Java 6 with a SQLServer 2005 data warehouse
   (~400 GB) using constructor injection.
 * Responsible for all stages of the development lifecycle from requirements 
