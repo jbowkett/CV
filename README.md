@@ -7,7 +7,8 @@
 
 James Bowkett
 ======
-#### james@bowkett.info • 07967 156887 • [http://github.com/jbowkett][]
+#### [http://github.com/jbowkett][]
+#### james@bowkett.info • 07967 156887 • 10 Honeysuckle Close, Hertford, SG13 7TQ 
 
 ### Summary
 I am a proven fast learner, looking to build on over 12 years experience using 
@@ -24,8 +25,8 @@ both GDC and LJC events and conferences.
 
 **December 2013 - Present • Lead Developer • [Lyagushka][], London**
 
-Lyagushka provide a full trade lifecycle platform for a large (>4$bn) Private 
-Equity Fund incorporating complex business rules.  The platform is developed 
+Lyagushka provide a full trade lifecycle platform for a large (>4$bn) private 
+equity fund incorporating complex business rules.  The platform is developed 
 using MongoDB, Mysql and Ruby on Rails employing highly agile methodologies for planning 
 (daily standup meetings, planning poker, Kanban boards) and development (TDD, 
 BDD and pair programming).
@@ -39,7 +40,7 @@ BDD and pair programming).
   security pricing project.
 * Streamlined the development process by introducing new tools to the company 
   such as Harvest & Trello.
-* Delivered a Disaster Recovery project (following several months of 
+* Delivered a disaster recovery project (following several prior months of 
   delays) using Puppet.
 * Part of the management team responsible for the orderly wind down of the 
   company.
@@ -56,7 +57,7 @@ BDD and pair programming).
   trees, error logging, IBAN formatting.
 * Presented at regular customer demo meetings to the fund partners.
 * Led the design for an ETL component for loading data from external sources.
-* Tackled different aspects technical debt within the main codebase 
+* Tackled different aspects of technical debt within the main codebase 
   (following in-house workshops with Michael Feathers and Matt Wynne). 
 
 
@@ -68,6 +69,8 @@ engineering, systems setup and administration.
 
 * Single-handedly created the software function from scratch, 
   standardising on Subversion, Maven 3, Jenkins and TRAC.
+* All code was implemented in Java 6 with a SQLServer 2005 data warehouse
+  (~400 GB) using constructor injection.
 * Responsible for all stages of the development lifecycle from requirements 
   gathering and design through to coding, testing, maintenance and production 
   support.  Development was undertaken in short rapid prototype cycles.
@@ -77,8 +80,6 @@ engineering, systems setup and administration.
   the data to present it in a consistent format so it may be input into 
   the quant's statistical models/simulations (e.g. Monte Carlo), and 
   ultimately used to make trading decisions.
-* All code was implemented in Java 6 with a SQLServer 2005 data warehouse
-  (~400 GB) using constructor injection.
 * Designed and implemented a highly-configurable ETL tool, allowing for 
   quick and easy development and deployment of new datafeeds. It downloaded 
   feed files (over http(s) and ftp) from such institutions as the SEC and 
@@ -91,10 +92,9 @@ engineering, systems setup and administration.
   manner, parsing recognised web pages automatically. Incorporating 
   JDIC/JExplorer and Webstart. (Since leaving, I have implemented an open 
   source custom proxy server to enable augmented browsing that would obviate 
-  the need for a custom browser component)
-* Developed a Maven plug-in to composite obfuscating and signing
-  mojos ready for Webstart creation to ensure output obfuscated jars are
-  signed for use in Webstart.  Incorporating Maven 3 and Proguard.
+  the need for a custom browser component).
+* Developed a Proguard Maven 3 plug-in to composite obfuscating and signing
+  mojos prior to Webstart creation.
 * Created various autonomous web page scraping agents.
 * Implemented a workflow server and client to allocate work for the
   research client and other research and internet downloader/scraping tools,
@@ -114,10 +114,13 @@ engineering, systems setup and administration.
 **May 2006 – April 2007 • Senior Software Engineer • [Iris Financial 
 Solutions][], London**
 
+Iris Financial supplied real time Java FX pricing engines to major investment 
+banks.
+
 * Supported and liaised with business users of Citigroup’s main benchmark FX
   spot and forward pricing engine.
 * Created emailing functionality for notification of upcoming stale fixing
-  results for forward and spot bench FX pricing engine, using java mail,
+  results for forward and spot bench FX pricing engine, using Java mail,
   XSLT and Xerces.
 * Implemented new functionality to Citigroup’s main real time market making
   FX spot pricing engine.
@@ -128,8 +131,12 @@ Solutions][], London**
 
 **June 2005 – May 2006 • Associate Analyst Programmer • [JP Morgan Asset Management][], London**
 
+JP Morgan Asset Management provide asset management services to both retail 
+and institutional investors.
+
 * Seconded into build manager role, introducing a monthly release cycle leading
-  to 20 successful releases to production after a period of several late releases.
+  to 20 successful releases to production after a prior period of several late 
+  releases.
 * Wrote the requirements for a data maintenance platform and managed its implementation by Accenture. 
 * Upgraded three portal applications from Websphere 4/Epicentric 4 to
   Websphere 5/Vignette Application Portal 7.2.
@@ -137,6 +144,9 @@ Solutions][], London**
   Clearcase.
 
 **June 2002 – June 2005	• Senior Software Engineer • [Searchspace][], London**
+
+Searchspace provided anti-money laundering and fraud detection products to 
+tier-1 retail banks in the UK and US.
 
 * Technical Lead for development and deployment of 3 new DB2-based Sentinel
   products for US Bank (the project totalled around 7 man years of development
@@ -187,7 +197,7 @@ Solutions][], London**
 **July 1999 – October 1999 • Student Internship • [Searchspace][], London**
 
 **July 1996 – December 1998 • Various technical support roles during 
-sixth form/university vacations**
+sixth form/university holidays**
 
 ### Education and Qualifications
 
