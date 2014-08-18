@@ -12,8 +12,8 @@ James Bowkett
 
 ### Profile
 
-A professional technical lead looking to build on over 12 years experience 
-using Java in various enterprise environments. I am seeking a return to working 
+A professional, hands-on technical lead looking to build on over 12 years 
+experience using Java in various enterprise environments. I am seeking a return to working 
 with large datasets using TDD practices, SOLID design and clean code.
 
 I am an Associate at the Graduate Developer Community, attending both GDC and 
@@ -205,3 +205,5 @@ sixth form/university holidays**
 * Summer 1995 SEETEC - NVQ Level 2 diploma in Information Technology
 * 1990-1995 Westcliff High School for Boys - 10 GCSEs 
 * 1982-1990 College Saint Pierre Preparatory School
+
+
