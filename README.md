@@ -13,8 +13,8 @@ James Bowkett
 ### Profile
 
 A professional, hands-on technical lead looking to build on over 12 years 
-experience using Java in various enterprise environments. I am seeking a return to working 
-with large datasets using TDD practices, SOLID design and clean code.
+experience using Java in various enterprise environments. I am seeking 
+to continue using TDD practices, SOLID design and clean code.
 
 I am an Associate at the Graduate Developer Community, attending both GDC and 
 LJC events and conferences.
