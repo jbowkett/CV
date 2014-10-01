@@ -65,8 +65,9 @@ engineering, systems setup and administration.
 
 * Single-handedly created the software function, standardising on Subversion, 
   Maven 3, Jenkins and TRAC.
-* All code was implemented in Java 6 with a SQLServer 2005 data warehouse
-  (~400 GB) using constructor injection.
+* All code was implemented in Java 6 using constructor injection with a 
+  SQLServer 2005 data warehouse (~400 GB) using a datamart/OLAP cube 
+  architecture.
 * Responsible for all stages of the development lifecycle from requirements 
   gathering and design through to coding, testing, maintenance and production 
   support.  Development was undertaken in short rapid prototype cycles.
@@ -103,7 +104,7 @@ engineering, systems setup and administration.
 * Successfully presented development process to non-technical prospective
   board members.
 * Mentored a temporary researcher to the level of a junior programmer able to 
-  develop production-ready code.
+  develop production-ready code using SQL and SQL Server Reporting Services.
 * Created company-wide backup and disaster recovery strategy.
 * Made strategic purchasing decisions e.g. Google Apps.
 
@@ -153,6 +154,8 @@ tier-1 retail banks in the UK and US.
   kept under change control; presenting at several meetings with the senior
   executives of US Bank in Minneapolis to instil confidence in Searchspace’s
   ability to deliver the solution.
+* Sentinels were implemented using progressive summaries of data rolled up 
+  to different levels of granularity/dimensions in an OLAP style.
 * Researched new technologies for prototyping configuration control and
   IEF upgrades.  The technologies used include dynamic classloading, portlets, 
   JSPs, Servlets and XML persistence mechanisms.
