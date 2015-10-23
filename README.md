@@ -92,8 +92,12 @@ engineering, systems setup and administration.
 * Single-handedly created the software function, standardising on Subversion, 
   Maven 3, Jenkins and TRAC.
 * All code was implemented in Java 6 using constructor injection with a 
+<<<<<<< HEAD
   SQLServer 2005 data warehouse (~400 GB) using a datamart/OLAP cube 
   architecture.
+=======
+  SQLServer 2005 data warehouse (~400 GB).
+>>>>>>> master
 * Responsible for all stages of the development lifecycle from requirements 
   gathering and design through to coding, testing, maintenance and production 
   support.  Development was undertaken in short rapid prototype cycles.
