@@ -1,4 +1,6 @@
 [http://github.com/jbowkett]: http://github.com/jbowkett
+[Excelian]:http://www.excelian.com
+[Prosperity Capital Management]:http://prosperitycapital.com
 [Lyagushka]:http://lyagushka.co.uk
 [Cygna Negra Capital Management]:http://www.cygnanegra.com
 [Iris Financial Solutions]: http://www.irisfinancialsolutions.com
@@ -8,20 +10,44 @@
 James Bowkett
 ======
 #### [http://github.com/jbowkett][]
-#### james@bowkett.info • 07967 156887 • 10 Honeysuckle Close, Hertford, SG13 7TQ 
 
 ### Profile
 
-A professional, hands-on technical lead looking to build on over 12 years 
-experience using Java in various enterprise environments. I am seeking a return to working 
-with large datasets using TDD practices, SOLID design and clean code.
+A professional, hands-on technical lead with over 15 years software development 
+experience predominantly using Java in various finance-related enterprise 
+environments. I always strive to employ TDD/BDD practices and SOLID design to 
+produce clean code.
 
 I am an Associate at the Graduate Developer Community, attending both GDC and 
 LJC events and conferences.
 
 ### Employment History
 
-**December 2013 - Present • Lead Developer • [Lyagushka][], London**
+**January 2015 - Present • Principal Consultant • [Excelian][], London**
+
+Excelian are a consultancy specialising in grid/cloud and big data technologies 
+in the financial services industry.
+
+* Lead architect for a review of a failing market risk project
+* Developer for Lloyds Banking Group - fixed income rates using 29 West Ultra 
+  Low Latency messaging bus. 
+* Leader of the internal development community to mentor other consultants in 
+  development best practices and continual learning.
+* Core contributor to Mache - A Java open source in-memory cache, backed by Cassandra, 
+  MongoDB or Couchbase.
+
+
+**September 2013 - December 2013 • Proton Consultant • [Prosperity Capital Management][], London**
+
+Prosperity Capital currently manage in excess of $4bn in assets.  Following the 
+demise of Lyagushka I was responsible for an extended period of handover for 
+their trade lifecycle platform.
+
+* Led the remote team to ensure they could develop new features and support the 
+  existing platform.
+
+
+**December 2013 - September 2013 • Lead Developer • [Lyagushka][], London**
 
 Lyagushka provide a full trade lifecycle platform for a large (>4$bn) private 
 equity fund incorporating complex business rules.  The platform is developed 
