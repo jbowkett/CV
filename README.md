@@ -1,4 +1,6 @@
 [http://github.com/jbowkett]: http://github.com/jbowkett
+[Excelian]:http://www.excelian.com
+[Prosperity Capital Management]:http://prosperitycapital.com
 [Lyagushka]:http://lyagushka.co.uk
 [Cygna Negra Capital Management]:http://www.cygnanegra.com
 [Iris Financial Solutions]: http://www.irisfinancialsolutions.com
@@ -8,20 +10,44 @@
 James Bowkett
 ======
 #### [http://github.com/jbowkett][]
-#### james@bowkett.info • 07967 156887 • 10 Honeysuckle Close, Hertford, SG13 7TQ 
 
 ### Profile
 
-A professional, hands-on technical lead looking to build on over 12 years 
-experience using Java in various enterprise environments. I am seeking a return to working 
-with large datasets using TDD practices, SOLID design and clean code.
+A professional, hands-on technical lead with over 15 years software development 
+experience predominantly using Java in various finance-related enterprise 
+environments. I always strive to employ TDD/BDD practices and SOLID design to 
+produce clean code.
 
 I am an Associate at the Graduate Developer Community, attending both GDC and 
 LJC events and conferences.
 
 ### Employment History
 
-**December 2013 - Present • Lead Developer • [Lyagushka][], London**
+**January 2015 - Present • Principal Consultant • [Excelian][], London**
+
+Excelian are a consultancy specialising in grid/cloud and big data technologies 
+in the financial services industry.
+
+* Lead architect for a review of a failing market risk project
+* Developer for Lloyds Banking Group - fixed income rates using 29 West Ultra 
+  Low Latency messaging bus. 
+* Leader of the internal development community to mentor other consultants in 
+  development best practices and continual learning.
+* Core contributor to Mache - A Java open source in-memory cache, backed by Cassandra, 
+  MongoDB or Couchbase.
+
+
+**September 2013 - December 2013 • Proton Consultant • [Prosperity Capital Management][], London**
+
+Prosperity Capital currently manage in excess of $4bn in assets.  Following the 
+demise of Lyagushka I was responsible for an extended period of handover for 
+their trade lifecycle platform.
+
+* Led the remote team to ensure they could develop new features and support the 
+  existing platform.
+
+
+**December 2013 - September 2013 • Lead Developer • [Lyagushka][], London**
 
 Lyagushka provide a full trade lifecycle platform for a large (>4$bn) private 
 equity fund incorporating complex business rules.  The platform is developed 
@@ -66,7 +92,8 @@ engineering, systems setup and administration.
 * Single-handedly created the software function, standardising on Subversion, 
   Maven 3, Jenkins and TRAC.
 * All code was implemented in Java 6 using constructor injection with a 
-  SQLServer 2005 data warehouse (~400 GB).
+  SQLServer 2005 data warehouse (~400 GB) using a datamart/OLAP cube 
+  architecture.
 * Responsible for all stages of the development lifecycle from requirements 
   gathering and design through to coding, testing, maintenance and production 
   support.  Development was undertaken in short rapid prototype cycles.
@@ -103,7 +130,7 @@ engineering, systems setup and administration.
 * Successfully presented development process to non-technical prospective
   board members.
 * Mentored a temporary researcher to the level of a junior programmer able to 
-  develop production-ready code.
+  develop production-ready code using SQL and SQL Server Reporting Services.
 * Created company-wide backup and disaster recovery strategy.
 * Made strategic purchasing decisions e.g. Google Apps.
 
@@ -153,6 +180,8 @@ tier-1 retail banks in the UK and US.
   kept under change control; presenting at several meetings with the senior
   executives of US Bank in Minneapolis to instil confidence in Searchspace’s
   ability to deliver the solution.
+* Sentinels were implemented using progressive summaries of data rolled up 
+  to different levels of granularity/dimensions in an OLAP style.
 * Researched new technologies for prototyping configuration control and
   IEF upgrades.  The technologies used include dynamic classloading, portlets, 
   JSPs, Servlets and XML persistence mechanisms.
