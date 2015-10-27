@@ -37,7 +37,7 @@ in the financial services industry.
   MongoDB or Couchbase.
 
 
-**September 2013 - December 2013 • Proton Consultant • [Prosperity Capital Management][], London**
+**September 2014 - December 2014 • Proton Consultant • [Prosperity Capital Management][], London**
 
 Prosperity Capital currently manage in excess of $4bn in assets.  Following the 
 demise of Lyagushka I was responsible for an extended period of handover for 
@@ -47,7 +47,7 @@ their trade lifecycle platform.
   existing platform.
 
 
-**December 2013 - September 2013 • Lead Developer • [Lyagushka][], London**
+**December 2013 - September 2014 • Lead Developer • [Lyagushka][], London**
 
 Lyagushka provide a full trade lifecycle platform for a large (>4$bn) private 
 equity fund incorporating complex business rules.  The platform is developed 
