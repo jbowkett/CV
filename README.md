@@ -1,4 +1,5 @@
 [http://github.com/jbowkett]: http://github.com/jbowkett
+[Mache]: http://github.com/Excelian/Mache
 [Excelian]:http://www.excelian.com
 [Prosperity Capital Management]:http://prosperitycapital.com
 [Lyagushka]:http://lyagushka.co.uk
@@ -13,7 +14,7 @@ James Bowkett
 
 ### Profile
 
-A professional, hands-on technical lead with over 15 years software development 
+A professional, hands-on technical lead with over 16 years software development 
 experience predominantly using Java in various finance-related enterprise 
 environments. I always strive to employ TDD/BDD practices and SOLID design to 
 produce clean code.
@@ -28,14 +29,18 @@ LJC events and conferences.
 Excelian are a consultancy specialising in grid/cloud and big data technologies 
 in the financial services industry.
 
-* Lead architect for a review of a failing market risk project
-* Developer for Lloyds Banking Group - fixed income rates using 29 West Ultra 
+* Lead architect for a review of a failing market risk project.
+* Senior Developer for Lloyds Banking Group - fixed income rates using 29 West Ultra 
   Low Latency messaging bus. 
-* Leader of the internal development community to mentor other consultants in 
-  development best practices and continual learning.
-* Core contributor to Mache - A Java open source in-memory cache, backed by Cassandra, 
+* Founded and lead the internal development community to mentor ~20 other 
+  consultants in development best practices and continual learning.
+* Core contributor to [Mache][] - A Java open source in-memory cache, backed by Cassandra, 
   MongoDB or Couchbase.
-
+* Represented the company to potential blockchain partners.
+* Wrote various articles for the tech spark magazine and blog posts on 
+  microservices, blockchain, Mache and the developer community.
+* Presented at conferences.
+* Line managed 4 direct reports (each having 2 of their own).
 
 **September 2014 - December 2014 • Proton Consultant • [Prosperity Capital Management][], London**
 
