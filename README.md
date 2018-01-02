@@ -14,112 +14,121 @@ James Bowkett
 
 ### Profile
 
-A professional, hands-on technical lead with over 16 years software development 
-experience predominantly using Java in various finance-related enterprise 
-environments. I always strive to employ TDD/BDD practices and SOLID design to 
+A professional, hands-on technical lead with almost 20 years software
+development experience predominantly using Java in various finance-related enterprise
+environments. I always strive to employ TDD/BDD practices and SOLID design to
 produce clean code.
 
-I am an Associate at the Graduate Developer Community, attending both GDC and 
+I am an Associate at the Graduate Developer Community, attending both GDC and
 LJC events and conferences.
 
 ### Employment History
 
 **January 2015 - Present • Principal Consultant • [Excelian][], London**
 
-Excelian are a consultancy specialising in grid/cloud and big data technologies 
-in the financial services industry.
+Excelian is the financial services vertical for Luxoft.  The Technical
+Consulting Practice specialise in delivering large outsourced projects using
+mainly cloud and big data technologies.
 
+* Technical Lead for Credit Agricole - Lead developer for 50-person team to
+  deliver Mifid II transaction reporting.  Employed an event-driven
+  microservices architecture using Kafka as the message bus to enable horizontal
+  scaling for the data loading application.
+* Lead Blockchain engineer responsible for establishing the blockchain practice
+  and Luxoft's presence in the marketplace writing articles, example code,
+  podcasts and conference appearances, in addition to leading the nearshore team.
+* Senior Developer for Lloyds Banking Group fixed income rates team - used the
+  29 West Ultra Low Latency messaging bus to deliver applications.
 * Lead architect for a review of a failing market risk project.
-* Senior Developer for Lloyds Banking Group - fixed income rates using 29 West Ultra 
-  Low Latency messaging bus. 
-* Founded and lead the internal development community to mentor ~20 other 
+* Founded and led the internal development community to mentor ~20 other
   consultants in development best practices and continual learning.
-* Core contributor to [Mache][] - A Java open source in-memory cache, backed by Cassandra, 
+* Core contributor to [Mache][] - A Java open source in-memory cache, backed by Cassandra,
   MongoDB or Couchbase.
-* Represented the company to potential blockchain partners.
-* Wrote various articles for the tech spark magazine and blog posts on 
+* Represented the company to potential blockchain partners and industry analysts.
+* Wrote various articles for the tech spark magazine and blog posts on
   microservices, blockchain, Mache and the developer community.
 * Presented at conferences.
-* Line managed 4 direct reports (each having 2 of their own).
+* Line managed 4 direct reports (each having 2 of their own - overall
+responsible for 10 employees).
 
 **September 2014 - December 2014 • Proton Consultant • [Prosperity Capital Management][], London**
 
-Prosperity Capital currently manage in excess of $4bn in assets.  Following the 
-demise of Lyagushka I was responsible for an extended period of handover for 
+Prosperity Capital currently manage in excess of $4bn in assets.  Following the
+demise of Lyagushka I was responsible for an extended period of handover for
 their trade lifecycle platform.
 
-* Led the remote team to ensure they could develop new features and support the 
+* Led the remote team to ensure they could develop new features and support the
   existing platform.
 
 
 **December 2013 - September 2014 • Lead Developer • [Lyagushka][], London**
 
-Lyagushka provide a full trade lifecycle platform for a large (>4$bn) private 
-equity fund incorporating complex business rules.  The platform is developed 
-using MongoDB, Mysql and Ruby on Rails employing highly agile methodologies for planning 
-(morning standups, planning poker, Kanban boards) and development (TDD, 
+Lyagushka provide a full trade lifecycle platform for a large (>4$bn) private
+equity fund incorporating complex business rules.  The platform was developed
+using MongoDB, Mysql and Ruby on Rails employing highly agile methodologies for planning
+(morning standups, planning poker, Kanban boards) and development (TDD,
 BDD and pair programming).
 
 * Promoted to team lead following successful first year with the company.
-* Introduced constructor injection technique to the team to assist with 
+* Introduced constructor injection technique to the team to assist with
   unit testability.
 * Modelled, designed and implemented a complex stock movement service.
 * Designed and implemented instruction services to output SWIFT messages.
-* Oversaw the implementation of an external team to deliver an FX and 
+* Oversaw the implementation of an external team to deliver an FX and
   security pricing project.
-* Streamlined the development process by introducing new tools to the company 
+* Streamlined the development process by introducing new tools to the company
   such as Harvest & Trello.
-* Part of the management team responsible for the orderly wind down of the 
+* Part of the management team responsible for the orderly wind down of the
   company.
 * Demonstrated the platform to potential clients and investors.
 
 
 **October 2012 - December 2013 • Senior Developer • [Lyagushka][], London**
 
-* Successfully cross-trained to Ruby and developed new components 3 months 
+* Successfully cross-trained to Ruby and developed new components 3 months
   earlier than anticipated by the team.
-* Quickly became proficient in the Ruby toolchain - Ruby 1.8.7, Rails 2, 
+* Quickly became proficient in the Ruby toolchain - Ruby 1.8.7, Rails 2,
   Rspec, Cucumber, Github, Capistrano on OS X.
-* Designed and implemented new components for accessing company family 
+* Designed and implemented new components for accessing company family
   trees, error logging, IBAN formatting.
 * Presented at regular customer demo meetings to the fund partners.
 * Led the design for an ETL component for loading data from external sources.
-* Tackled different aspects of technical debt within the main codebase 
-  (following in-house workshops with Michael Feathers and Matt Wynne). 
+* Tackled different aspects of technical debt within the main codebase
+  (following in-house workshops with Michael Feathers and Matt Wynne).
 
 
 **April 2007 – September 2012 • Software Engineer  • [Cygna Negra Capital Management][], London**
 
-Cygna Negra was a long-short hedge fund trading US equities.  Prior to its 
-incorporation, I was approached by the CEO to be responsible for all software 
+Cygna Negra was a long-short hedge fund trading US equities.  Prior to its
+incorporation, I was approached by the CEO to be responsible for all software
 engineering, systems setup and administration.
 
-* Single-handedly created the software function, standardising on Subversion, 
+* Single-handedly created the software function, standardising on Subversion,
   Maven 3, Jenkins and TRAC.
-* All code was implemented in Java 6 using constructor injection with a 
-  SQLServer 2005 data warehouse (~400 GB) using a datamart/OLAP cube 
+* All code was implemented in Java 6 using constructor injection with a
+  SQLServer 2005 data warehouse (~400 GB) using a datamart/OLAP cube
   architecture.
-* Responsible for all stages of the development lifecycle from requirements 
-  gathering and design through to coding, testing, maintenance and production 
+* Responsible for all stages of the development lifecycle from requirements
+  gathering and design through to coding, testing, maintenance and production
   support.  Development was undertaken in short rapid prototype cycles.
-* The role involved implementing the data requirements from the lead quant to 
-  extract data from sources such as S&P Compustat, web pages, individual 
-  researchers and online public document libraries (e.g. SEC) and cleaning 
-  the data to present it in a consistent format so it may be input into 
-  the quant's statistical models/simulations (e.g. Monte Carlo), and 
+* The role involved implementing the data requirements from the lead quant to
+  extract data from sources such as S&P Compustat, web pages, individual
+  researchers and online public document libraries (e.g. SEC) and cleaning
+  the data to present it in a consistent format so it may be input into
+  the quant's statistical models/simulations (e.g. Monte Carlo), and
   ultimately used to make trading decisions.
-* Designed and implemented a highly-configurable ETL tool, allowing for 
-  quick and easy development and deployment of new datafeeds. It downloaded 
-  feed files (over http(s) and ftp) from such institutions as the SEC and 
+* Designed and implemented a highly-configurable ETL tool, allowing for
+  quick and easy development and deployment of new datafeeds. It downloaded
+  feed files (over http(s) and ftp) from such institutions as the SEC and
   USPTO. Incorporating Xstream, reflection, XSLT, Apache commons-net.
-* Created Tomcat 7 web applications for accessing and analysing OLAP data. 
-  Incorporating the following technologies: Spring 3, Stripes, Shiro, JSP 2, 
-  JSTL, Infinispan 5, Java.nio Memory mapped files, CSS, JQuery, Highcharts 2, 
+* Created Tomcat 7 web applications for accessing and analysing OLAP data.
+  Incorporating the following technologies: Spring 3, Stripes, Shiro, JSP 2,
+  JSTL, Infinispan 5, Java.nio Memory mapped files, CSS, JQuery, Highcharts 2,
   JQueryBlockUI, DisplayTag, Ajax.
-* Created a tool for users to research company information in a structured 
-  manner, parsing recognised web pages automatically. Incorporating 
-  JDIC/JExplorer and Webstart. (Since leaving, I have implemented an open 
-  source custom proxy server to enable augmented browsing that would obviate 
+* Created a tool for users to research company information in a structured
+  manner, parsing recognised web pages automatically. Incorporating
+  JDIC/JExplorer and Webstart. (Since leaving, I have implemented an open
+  source custom proxy server to enable augmented browsing that would obviate
   the need for a custom browser component).
 * Developed a Proguard Maven 3 plug-in to composite obfuscating and signing
   mojos prior to Webstart creation.
@@ -134,15 +143,15 @@ engineering, systems setup and administration.
   noisy company name data to publicly-listed company names.
 * Successfully presented development process to non-technical prospective
   board members.
-* Mentored a temporary researcher to the level of a junior programmer able to 
+* Mentored a temporary researcher to the level of a junior programmer able to
   develop production-ready code using SQL and SQL Server Reporting Services.
 * Created company-wide backup and disaster recovery strategy.
 * Made strategic purchasing decisions e.g. Google Apps.
 
-**May 2006 – April 2007 • Senior Software Engineer • [Iris Financial 
+**May 2006 – April 2007 • Senior Software Engineer • [Iris Financial
 Solutions][], London**
 
-Iris Financial supplied real time Java FX pricing engines to major investment 
+Iris Financial supplied real time Java FX pricing engines to major investment
 banks.
 
 * Supported and liaised with business users of Citigroup’s main benchmark FX
@@ -159,21 +168,21 @@ banks.
 
 **June 2005 – May 2006 • Associate Analyst Programmer • [JP Morgan Asset Management][], London**
 
-JP Morgan Asset Management provide asset management services to both retail 
+JP Morgan Asset Management provide asset management services to both retail
 and institutional investors.
 
 * Seconded into build manager role, introducing a monthly release cycle leading
-  to 20 successful releases to production after a prior period of several late 
+  to 20 successful releases to production after a prior period of several late
   releases.
-* Wrote the requirements for a data maintenance platform and managed its implementation by Accenture. 
+* Wrote the requirements for a data maintenance platform and managed its implementation by Accenture.
 * Upgraded three portal applications from Websphere 4/Epicentric 4 to
   Websphere 5/Vignette Application Portal 7.2.
-* Managed the migration of all department source code from PVCS and CVS to 
+* Managed the migration of all department source code from PVCS and CVS to
   Clearcase.
 
 **June 2002 – June 2005	• Senior Software Engineer • [Searchspace][], London**
 
-Searchspace provided anti-money laundering and fraud detection products to 
+Searchspace provided anti-money laundering and fraud detection products to
 tier-1 retail banks in the UK and US.
 
 * Technical Lead for development and deployment of 3 new DB2-based Sentinel
@@ -185,10 +194,10 @@ tier-1 retail banks in the UK and US.
   kept under change control; presenting at several meetings with the senior
   executives of US Bank in Minneapolis to instil confidence in Searchspace’s
   ability to deliver the solution.
-* Sentinels were implemented using progressive summaries of data rolled up 
+* Sentinels were implemented using progressive summaries of data rolled up
   to different levels of granularity/dimensions in an OLAP style.
 * Researched new technologies for prototyping configuration control and
-  IEF upgrades.  The technologies used include dynamic classloading, portlets, 
+  IEF upgrades.  The technologies used include dynamic classloading, portlets,
   JSPs, Servlets and XML persistence mechanisms.
 * Presented several internal training courses to customer services,
   developers and professional services staff (groups comprised of 10 to
@@ -210,10 +219,10 @@ tier-1 retail banks in the UK and US.
   integrate with the Sapient codebase to create events during multi-threaded
   database batch processes.
 * Programmed IEF on major client deployment projects including Scotiabank,
-  Barclays, RBS, NYSE and HBOS. 
+  Barclays, RBS, NYSE and HBOS.
 * Created workarounds to various framework issues such as loading 6.5 million
   customer account records safely into 32-bit memory while still assuring fast
-  and efficient lookup. 
+  and efficient lookup.
 * Regularly seconded into technical lead role, including resolving technical
   and project issues for team members, other project teams and clients and
   managers.
@@ -226,7 +235,7 @@ tier-1 retail banks in the UK and US.
 
 **July 1999 – October 1999 • Student Internship • [Searchspace][], London**
 
-**July 1996 – December 1998 • Various technical support roles during 
+**July 1996 – December 1998 • Various technical support roles during
 sixth form/university holidays**
 
 ### Education and Qualifications
@@ -234,10 +243,10 @@ sixth form/university holidays**
 * 2014 Mongo University - Mongo 101
 * 2004 British Computer Society - MBCS
 * 1997-2000 University of Sussex - 2:1 (Hons) BSc Computer Science
-* 1995-1997 Westcliff High School For Boys Sixth Form - 4 A-levels 
+* 1995-1997 Westcliff High School For Boys Sixth Form - 4 A-levels
 * 1995-1996 Southend Adult Education Community College - A-level in Computer Science
 * Summer 1995 SEETEC - NVQ Level 2 diploma in Information Technology
-* 1990-1995 Westcliff High School for Boys - 10 GCSEs 
+* 1990-1995 Westcliff High School for Boys - 10 GCSEs
 * 1982-1990 College Saint Pierre Preparatory School
 
 
