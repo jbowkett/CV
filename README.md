@@ -14,42 +14,44 @@ James Bowkett
 
 ### Profile
 
-A professional, hands-on technical lead with almost 20 years software
-development experience predominantly using Java in various finance-related enterprise
-environments. I always strive to employ TDD/BDD practices and SOLID design to
-produce clean code.
-
-I am an Associate at the Graduate Developer Community, attending both GDC and
-LJC events and conferences.
+A professional, hands-on technical lead and architect with almost 20 years 
+software development experience predominantly using Java in various 
+finance-related enterprise environments. A strong advocate of TDD and BDD 
+practices and SOLID design to deliver clean code in continuously.
 
 ### Employment History
 
-**January 2015 - Present • Principal Consultant • [Excelian][], London**
+**January 2015 - Present • Senior Principal Consultant, Head of Engineering, 
+Digital Consulting • [Excelian][], London**
 
-Excelian is the financial services vertical for Luxoft.  The Technical
+Excelian is the financial services vertical for Luxoft.  The Digital
 Consulting Practice specialise in delivering large outsourced projects using
-mainly cloud and big data technologies.
+best-in-breed digital technologies - UI/UX, AI/ML, cloud/devops and 
+big/fast data technologies.
 
-* Technical Lead for Credit Agricole - Lead developer for 50-person team to
-  deliver Mifid II transaction reporting.  Employed an event-driven
-  microservices architecture using Kafka as the message bus to enable horizontal
-  scaling for the data loading application.
+* Head of Engineering for Digital Consulting - responsible for project 
+  intitiation, architecture, design and development process for new projects.
+* Technical Lead for Credit Agricole - Lead developer for a 60-person team to
+  deliver Mifid II transaction reporting.  Employed an event-driven, 
+  orchestrated microservices architecture using Kafka as the message bus to 
+  enable horizontal scaling and resilience for the data loading application.
 * Lead Blockchain engineer responsible for establishing the blockchain practice
   and Luxoft's presence in the marketplace writing articles, example code,
   podcasts and conference appearances, in addition to leading the nearshore team.
 * Senior Developer for Lloyds Banking Group fixed income rates team - used the
   29 West Ultra Low Latency messaging bus to deliver applications.
 * Lead architect for a review of a failing market risk project.
+* Represented the company to many clients, preparing presales and 
+  proposal materials to cover topics such as UI, blockchain and 
+  devops/continuous delivery.
 * Founded and led the internal development community to mentor ~20 other
   consultants in development best practices and continual learning.
-* Core contributor to [Mache][] - A Java open source in-memory cache, backed by Cassandra,
-  MongoDB or Couchbase.
+* Core contributor to [Mache][] - A Java open source in-memory cache, backed by 
+  Cassandra, MongoDB or Couchbase.
 * Represented the company to potential blockchain partners and industry analysts.
-* Wrote various articles for the tech spark magazine and blog posts on
-  microservices, blockchain, Mache and the developer community.
-* Presented at conferences.
-* Line managed 4 direct reports (each having 2 of their own - overall
-responsible for 10 employees).
+* Published various articles for magazines and blog posts on microservices, 
+  blockchain, Mache and the developer community.
+* Directly managed 10 employees.
 
 **September 2014 - December 2014 • Proton Consultant • [Prosperity Capital Management][], London**
 
@@ -63,7 +65,7 @@ their trade lifecycle platform.
 
 **December 2013 - September 2014 • Lead Developer • [Lyagushka][], London**
 
-Lyagushka provide a full trade lifecycle platform for a large (>4$bn) private
+Lyagushka provided a full trade lifecycle platform for a large (>4$bn) private
 equity fund incorporating complex business rules.  The platform was developed
 using MongoDB, Mysql and Ruby on Rails employing highly agile methodologies for planning
 (morning standups, planning poker, Kanban boards) and development (TDD,
