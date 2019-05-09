@@ -15,10 +15,11 @@ James Bowkett
 
 ### Profile
 
-A professional, hands-on technical lead and architect with almost 20 years 
+I am a professional, hands-on technical lead and architect with almost 20 years 
 software development experience predominantly using Java in various 
-finance-related enterprise environments. A strong advocate of TDD and BDD 
-practices and SOLID design to deliver clean code continuously into production.
+finance-related enterprise environments. I am a strong advocate of TDD and BDD 
+practices employing SOLID design to deliver clean code continuously into 
+production.
 
 ### Employment History
 
