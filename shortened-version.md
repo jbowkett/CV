@@ -32,6 +32,18 @@ technologies such as :  UI/UX, AI/ML, cloud/devops and big/fast data. I
 have held several roles during my tenure from Blockchain Lead to Head of 
 Engineering.
 
+* cacib
+* lead blockchain
+* Lloyds architecture review
+* Lloyds low latency dev
+* CS lead 
+* Mache 
+* presales architectures
+* conferences
+* Mentor at Hack the Valley in Switzerland
+* dev stream
+* line management
+
 
 
 **September 2014 - December 2014 • Proton Consultant • 
@@ -52,6 +64,13 @@ developed using MongoDB, Mysql and Ruby on Rails employing highly agile
 methodologies for planning (morning standups, planning poker, Kanban boards) 
 and development (TDD, BDD and pair programming).
 
+* mgmt team wind down incl demo to clients and investors
+* architected, designed, implemented and oversaw for various components, 
+stock movement, SWIFT
+* oversaw external team
+* from bug report to bugfix to production in under 1 hour
+* brought in tooling and techniques, constructor injection, trello, Harvest
+
 **April 2007 – September 2012 • Software Engineer  • 
 [Cygna Negra Capital Management][], London**
 
@@ -59,14 +78,36 @@ Cygna Negra was a long-short hedge fund trading US equities.  Prior to its
 incorporation, I was approached by the CEO to be responsible for all software
 engineering, systems setup and administration.
 
+Architected and implemented the following major pieces of infrastructure:
+* Configurable ETL pipeline for USPTO grants, applications, reassignments, 
+  trademarks and SEC filings 
+* Database of company family tree taking data from various sources such as 
+  Hoovers, S&P and Google
+* Company research augmented Web UI for team of 10 researchers
+* Workflow server for allocation of work to researchers
+* Discrepancy and reconciliation tool for researcher output
+* Text cleaning libraries for automatic matching of patent assignees with 
+  various company family tree databases
+* Autonomous web crawlers for harvesting company information from known public 
+  sites
+* Web applications for visualising company family tree data, analytics, 
+  patent portfolio analytics
+* Custom obfuscation and signing maven Mojo to integrate with webstart jar files
+* Gridgain implementation for assignee matching 
+
+
+
 
 
 **May 2006 – April 2007 • Senior Software Engineer • Iris Financial
 Solutions, London** 
 
-Iris Financial supplied real time Java FX pricing engines to major investment
+Iris Financial supplied real-time Java FX pricing engines to major investment
 banks. I was responsible for delivering low latency code to clients such 
 as Citigroup and JP Morgan. 
+* modules for real time FX Spot pricing engine, including stale fixing 
+notifications, JMX management and config visualisation
+* Various production bug fixes to the FX Spot engines
 
 
 **June 2005 – May 2006 • Associate Analyst Programmer • 
@@ -77,6 +118,9 @@ investors.  As part of the reporting team, I was responsible for internal
 development and seconded into the build manager role leading to 20 successful
 releases following a prolonged period of instability.  
 
+* Managed external vendor for a data maintenance platform from 
+documenting initial requirements through to implementation.
+* Development of various server-side, data management command line Java tools.
 
 **June 2000 – June 2005	• Senior Software Engineer • Searchspace, London** 
 (acquired by [Nice Actimize][])
@@ -85,7 +129,12 @@ Searchspace provided anti-money laundering and fraud detection products to
 tier-1 retail banks in the UK and US.  Following several promotions after 
 starting as an intern, I was ultimately responsible for the technical leadership 
 of the core platform team and 3 new anti-fraud products.
-
+* 3 new sentinels
+* Tech lead for IEF team, profile navigation, ????
+* Tech lead for Scotia
+* Developed IEF server components for major deployments, including 32-bit 
+memory caching in Java 1.3
+* Mentoring of junior devs/interviewing new hires
 
 
 ### Education and Qualifications

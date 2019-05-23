@@ -89,12 +89,11 @@ BDD and pair programming).
 
 * Successfully cross-trained to Ruby and developed new components 3 months
   earlier than anticipated by the team.
-* Quickly became proficient in the Ruby toolchain - Ruby 1.8.7, Rails 2,
-  Rspec, Cucumber, Github, Capistrano on OS X.
-* Designed and implemented new components for accessing company family
-  trees, error logging, IBAN formatting.
+* Quickly became proficient in the Ruby toolchain - Ruby / Rails /
+  Rspec / Cucumber / Github / Capistrano.
 * Presented at regular customer demo meetings to the fund partners.
-* Led the design for an ETL component for loading data from external sources.
+* Led the design and implementation of various components including ETL and 
+  company family trees.
 * Tackled different aspects of technical debt within the main codebase
   (following in-house workshops with Michael Feathers and Matt Wynne).
 
