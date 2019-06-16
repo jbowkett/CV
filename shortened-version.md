@@ -8,12 +8,11 @@
 [JP Morgan Asset Management]:http://www.jpmorgan.com
 [Searchspace]:http://www.searchspace.com
 [Nice Actimize]:http://www.niceactimize.com
+[https://linkedin.com/in/jamesbowkett]:https://linkedin.com/in/jamesbowkett
 
-James Bowkett
+JAMES BOWKETT
 ======
-#### [http://github.com/jbowkett][]
-
-### Profile
+#### [http://github.com/jbowkett][] • 07967 156 887 • [https://linkedin.com/in/jamesbowkett][]
 
 I am a professional, hands-on technical lead and architect with almost 20 years 
 software development experience predominantly using Java in various 
@@ -21,12 +20,11 @@ finance-related enterprise environments. I am a strong advocate of TDD and BDD
 practices employing SOLID design to deliver clean code continuously into 
 production.
 
-### Employment History
+## EMPLOYMENT HISTORY
 
-**January 2015 - Present • Senior Principal Consultant, Head of Engineering, 
-Digital Consulting • [Excelian][], London**
+### January 2015 - Present • Senior Principal Consultant, Head of Engineering, Digital Consulting • [Excelian][], London ###
 
-Excelian is the financial services vertical for Luxoft.  The Digital
+Excelian is the financial services Line of business for Luxoft.  The Digital
 Consulting Practice specialise in delivering large outsourced projects in 
 technologies such as :  UI/UX, AI/ML, cloud/devops and big/fast data. I 
 have held several roles during my tenure from Blockchain Lead to Head of 
@@ -46,8 +44,7 @@ Engineering.
 
 
 
-**September 2014 - December 2014 • Proton Consultant • 
-[Prosperity Capital Management][], London**
+### September 2014 - December 2014 • Proton Consultant • [Prosperity Capital Management][], London ###
 
 Prosperity Capital manage in excess of 4bn USD in assets.  Following the
 demise of Lyagushka I was responsible for an extended period of handover for
@@ -56,7 +53,7 @@ all areas of the existing codebase to enable a successful transition to the new
 team.
 
 
-**October 2012 - September 2014 • Lead Developer • Lyagushka, London**
+### October 2012 - September 2014 • Lead Developer • Lyagushka, London ###
 
 Lyagushka provided the full trade lifecycle platform incorporating complex 
 business rules and asset allocation for Prosperity Capital.  The platform was 
@@ -71,8 +68,7 @@ stock movement, SWIFT
 * from bug report to bugfix to production in under 1 hour
 * brought in tooling and techniques, constructor injection, trello, Harvest
 
-**April 2007 – September 2012 • Software Engineer  • 
-[Cygna Negra Capital Management][], London**
+### April 2007 – September 2012 • Software Engineer  • [Cygna Negra Capital Management][], London ###
 
 Cygna Negra was a long-short hedge fund trading US equities.  Prior to its
 incorporation, I was approached by the CEO to be responsible for all software
@@ -99,8 +95,7 @@ Architected and implemented the following major pieces of infrastructure:
 
 
 
-**May 2006 – April 2007 • Senior Software Engineer • Iris Financial
-Solutions, London** 
+### May 2006 – April 2007 • Senior Software Engineer • Iris Financial Solutions, London ### 
 
 Iris Financial supplied real-time Java FX pricing engines to major investment
 banks. I was responsible for delivering low latency code to clients such 
@@ -110,8 +105,7 @@ notifications, JMX management and config visualisation
 * Various production bug fixes to the FX Spot engines
 
 
-**June 2005 – May 2006 • Associate Analyst Programmer • 
-[JP Morgan Asset Management][], London**
+### June 2005 – May 2006 • Associate Analyst Programmer • [JP Morgan Asset Management][], London ###
 
 JP Morgan AM provide asset management services to both retail and institutional 
 investors.  As part of the reporting team, I was responsible for internal 
@@ -122,8 +116,7 @@ releases following a prolonged period of instability.
 documenting initial requirements through to implementation.
 * Development of various server-side, data management command line Java tools.
 
-**June 2000 – June 2005	• Senior Software Engineer • Searchspace, London** 
-(acquired by [Nice Actimize][])
+### June 2000 – June 2005	• Senior Software Engineer • Searchspace, London (acquired by [Nice Actimize][]) ###
 
 Searchspace provided anti-money laundering and fraud detection products to
 tier-1 retail banks in the UK and US.  Following several promotions after 
@@ -137,7 +130,7 @@ memory caching in Java 1.3
 * Mentoring of junior devs/interviewing new hires
 
 
-### Education and Qualifications
+## EDUCATION / QUALIFICATIONS
 
 * 2014 Mongo University - Mongo 101
 * 2004 British Computer Society - MBCS
