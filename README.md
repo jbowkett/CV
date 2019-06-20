@@ -21,7 +21,7 @@ practices and SOLID design to deliver clean code in continuously.
 
 ### Employment History
 
-**January 2015 - Present • Senior Principal Consultant, Head of Engineering, 
+**January 2015 - Present • Senior Principal Consultant, Engineering Lead, 
 Digital Consulting • [Excelian][], London**
 
 Excelian is the financial services vertical for Luxoft.  The Digital
@@ -29,7 +29,7 @@ Consulting Practice specialise in delivering large outsourced projects using
 best-in-breed digital technologies - UI/UX, AI/ML, cloud/devops and 
 big/fast data technologies.
 
-* Head of Engineering for Digital Consulting - responsible for project 
+* Engineering lead for Digital Consulting - responsible for project 
   intitiation, architecture, design and development process for new projects.
 * Technical Lead for Credit Agricole - Lead developer for a 60-person team to
   deliver Mifid II transaction reporting.  Employed an event-driven, 
