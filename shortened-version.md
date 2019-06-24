@@ -22,14 +22,16 @@ practices employing SOLID design to continuously deliver clean code.
 
 ## EMPLOYMENT HISTORY
 
-### January 2015 - Present • Senior Principal Consultant, Head of Engineering, Digital Consulting • [Excelian][], London ###
+### January 2015 - Present • Senior Principal Consultant, Engineering Lead, Digital Consulting • [Excelian][], London ###
 
 Excelian is the financial services line of business for Luxoft.  The Digital
 Consulting Practice specialise in delivering large outsourced projects in 
 technologies such as :  UI/UX, AI/ML, cloud/devops and big/fast data. I 
-have held several roles during my tenure from Blockchain Lead to Head of 
-Engineering.
+have held several roles during my tenure from Blockchain Lead to  
+Engineering Lead.
 
+* Engineering lead for Digital Consulting - responsible for project 
+  intitiation, architecture, design and development process for new projects.
 * Technical Team Lead responsible for all parts of the technical delivery 
 (design, architecture, mentoring and implementation) for a 
 60-person team (across 3 geographies) for a European investment bank's trade 
