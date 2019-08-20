@@ -18,7 +18,7 @@ body {
 }
 
 a {
-  color: #0645ad;
+  color: #111;
   /*color: #a11d00;*/
   text-decoration: none;
 }
@@ -78,7 +78,7 @@ h1 {
 /* section header */
 h2{
   /*color: #a11d00;*/
-  color: #0645ad;
+  color: #111;
   text-align: center;
   font-weight: bold;
   font-size: 14px;
@@ -87,7 +87,7 @@ h2{
 /* each employment */
 h3 {
   /*color: #a11d00;*/
-  color: #0645ad;
+  color: #111;
   font-size: 12px;
   font-weight: bold;
   text-align: center;
@@ -98,7 +98,7 @@ h3 {
 h4 {
    text-align: center;
    /*color: #a11d00;*/
-  color: #0645ad;
+  color: #111;
 }
 
 h4, h5, h6 {

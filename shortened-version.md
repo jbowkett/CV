@@ -22,7 +22,7 @@ practices employing SOLID design to continuously deliver clean code.
 
 ## EMPLOYMENT HISTORY
 
-### January 2015 - Present • Senior Principal Consultant, Engineering Lead, Digital Consulting • [Excelian][], London ###
+### January 2015 - Present • Director, Digital Consulting • [Excelian][], London ###
 
 Excelian is the financial services line of business for Luxoft.  The Digital
 Consulting Practice specialise in delivering large outsourced projects in 
@@ -36,7 +36,7 @@ Engineering Lead.
 (design, architecture, mentoring and implementation) for a 
 60-person team (across 3 geographies) for a European investment bank's trade 
 data lake to underpin the bank's data strategy and Mifid II reporting.  The 
-architecture made use of microservices, Kafka and continuous delivery.
+architecture made use of microservices, Docker, Kafka and continuous delivery.
 * Blockchain Lead for financial services, responsible for the 
 technical direction of the team in St. Petersburg while running workshops and
  pre-sales engagements with many financial services institutions. 
