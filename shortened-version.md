@@ -27,8 +27,7 @@ practices employing SOLID design to continuously deliver clean code.
 Excelian is the financial services line of business for Luxoft.  The Digital
 Consulting Practice specialise in delivering large outsourced projects in 
 technologies such as :  UI/UX, AI/ML, cloud/devops and big/fast data. I 
-have held several roles during my tenure from Blockchain Lead to  
-Engineering Lead.
+have held several roles during my tenure from Blockchain Lead to Engineering Lead.
 
 * Engineering lead for Digital Consulting - responsible for project 
   intitiation, architecture, design and development process for new projects.
